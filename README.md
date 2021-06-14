@@ -18,7 +18,7 @@ repository for work I did matching [okfn/publicbodies](https://github.com/okfn/p
 * 2021-06-14 1) you need unique identifiers for your items its much easier to track changes and we can have you as a Wikidata property
   * Maybe use the Wikidata Qnumber as an unique identifier?
 * 2021-06-14 1-1) looks like you duplicate items maybe we should have a "same as" e.g. "se/region-gotland" and "se/region-gotland-(landsting)" 
-* 2021-06-14 1-2) one way forward could be to yse a free empty version of Wikidata called [Wikibase](https://wikiba.se/)  
+* 2021-06-14 1-2) one way forward could be to use a free empty version of Wikidata called [Wikibase](https://wikiba.se/)  
 you can set up an instance with 5 clicks on [WBstack](https://www.wbstack.com) you need a password for doing that that 
 
 * 2021-06-14 2) Datainspektionen has changed name see Wikidata [Q1172261](https://www.wikidata.org/wiki/Q1172261)
