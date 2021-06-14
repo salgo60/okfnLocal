@@ -1,7 +1,7 @@
 # okfnLocal
 repository for work I did matching [okfn/publicbodies](https://github.com/okfn/publicbodies) with Wikidata 
 * [data/se.csv](https://github.com/okfn/publicbodies/blob/master/data/se.csv) is matched 
-  * matched file
+  * matched file [public-se-csv.csv](https://github.com/salgo60/okfnLocal/blob/main/public-se-csv.csv)
   * added more fields from Wikidata
     * WD svWikipedia url
     * WD Qnumber
@@ -14,8 +14,6 @@ repository for work I did matching [okfn/publicbodies](https://github.com/okfn/p
 * WD organisationsnummer = Wikidata Swedish Orgnumber  - [Property:P6460](https://www.wikidata.org/wiki/Property:P6460) 
 
 # Feedback 2021-06-14  on [data/se.csv](https://github.com/okfn/publicbodies/blob/master/data/se.csv)
-* see new created file [public-se-csv.csv](https://github.com/salgo60/okfnLocal/blob/main/public-se-csv.csv)
-
 
 * 2021-06-14 1) you need unique identifiers for your items its much easier to track changes and we can have you as a Wikidata property
   * Maybe use the Wikidata Qnumber as an unique identifier?
