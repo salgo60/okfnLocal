@@ -59,5 +59,5 @@ you can set up an instance with 5 clicks on [WBstack](https://www.wbstack.com) y
 * 2021-06-14 10) "solna-stad" maybe add alias "solna kommun" see Wikidata https://www.wikidata.org/wiki/Q109010
 * 2021-06-14 11) se/stockholms-lans-landsting I guess better name "Region Stockholm" see https://www.wikidata.org/wiki/Q3233188
 * 2021-06-14 12) "Västerbottens läns landsting" --> "Region Västerbotten" see https://sv.wikipedia.org/wiki/Region_V%C3%A4sterbotten
-* "Landstinget Sörmland" --> 
-* "Landstinget Västmanland" -->
+* "Landstinget Sörmland" --> I guess [Q3232072](https://www.wikidata.org/wiki/Q3232072)
+* "Landstinget Västmanland" --> I guess [Q3232214](https://www.wikidata.org/wiki/Q3232214)
