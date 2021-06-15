@@ -13,7 +13,9 @@ repository for work I did matching [okfn/publicbodies](https://github.com/okfn/p
     * WD e-postadress = Wikidata email [Property:P968](https://www.wikidata.org/wiki/Property:P968)
 * WD telefonnummer = Wikidata phonenr [Property:P1329](https://www.wikidata.org/wiki/Property:P1329)
 * WD organisationsnummer = Wikidata Swedish Orgnumber  - [Property:P6460](https://www.wikidata.org/wiki/Property:P6460) 
-
+## See also
+* Handlingar.se was [mentioned on Wikidata weekly](https://www.wikidata.org/wiki/Wikidata:Status_updates/2021_06_14)
+* Needs feedback how you will handle identifiera for organisations see [Wikidata:Property_proposal/Handlingar.se](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Handlingar.se)
 # Feedback 2021-06-14  on [data/se.csv](https://github.com/okfn/publicbodies/blob/master/data/se.csv)
 
 * 2021-06-14 1) you need unique identifiers for your items its much easier to track changes and we can have you as a Wikidata property
