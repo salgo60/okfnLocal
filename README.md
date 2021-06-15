@@ -52,7 +52,7 @@ you can set up an instance with 5 clicks on [WBstack](https://www.wbstack.com) y
 
 * 2021-06-14 4) "Malmö Högskola"  -> "Malmö Universitet" see [Wikidata](https://www.wikidata.org/wiki/Q977781) 
 * 2021-06-14 5) "Malmö stad" I guess a better name is "Malmö kommun" see https://sv.wikipedia.org/wiki/Malm%C3%B6_kommun
-* 2021-06-14 6) "Myndigheten för Internationella Adoptionsfrågor" --> new name [MFoF](https://www.bvadopt.se/Adoption-Aktuellt-MIA-har-bytt-namn-till-MFoF_DXNI-862974_)
+* 2021-06-14 6) "Myndigheten för Internationella Adoptionsfrågor" --> new name [MFoF](https://www.bvadopt.se/Adoption-Aktuellt-MIA-har-bytt-namn-till-MFoF_DXNI-862974_) - [WD Q10591748](https://www.wikidata.org/wiki/Q10591748)
 * 2021-06-14 7) "Revisorsnämnden" is called "Revisorsinspektionen" see https://sv.wikipedia.org/wiki/Revisorsinspektionen
 * 2021-06-14 8) "se/sveriges-meteorologiska-o-hydrologiska-institut" maybe should be called "Sveriges meteorologiska och hydrologiska institut" or "SMHI"
 * 2021-06-14 9) "trollhattans-stad" maybe better name "Trollhättans kommun" see https://sv.wikipedia.org/wiki/Trollh%C3%A4ttans_kommun
