@@ -1,6 +1,7 @@
 # okfnLocal
 * [video](https://youtu.be/1o2NTBnw1rE)
 repository for work I did matching [okfn/publicbodies](https://github.com/okfn/publicbodies) with Wikidata 
+   * okfn/publicbodies/issues/116 [Updating and organizing contact data for public bodies in Sweden ](https://github.com/okfn/publicbodies/issues/116)
 * [data/se.csv](https://github.com/okfn/publicbodies/blob/master/data/se.csv) is matched 
   * first version of matched file [public-se-csv.csv](https://github.com/salgo60/okfnLocal/blob/main/public-se-csv.csv)
   * added more fields from Wikidata to the file if you would like to link Wikidata /Wikipedia
