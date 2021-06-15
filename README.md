@@ -3,7 +3,7 @@
 repository for work I did matching [okfn/publicbodies](https://github.com/okfn/publicbodies) with Wikidata 
 * [data/se.csv](https://github.com/okfn/publicbodies/blob/master/data/se.csv) is matched 
   * first version of matched file [public-se-csv.csv](https://github.com/salgo60/okfnLocal/blob/main/public-se-csv.csv)
-  * added more fields from Wikidata to the file if your would like to link Wikidata /Wikipedia
+  * added more fields from Wikidata to the file if you would like to link Wikidata /Wikipedia
     * WD svWikipedia url
     * WD Qnumber
     * WD Lsv = Wikidata Swedish Label
