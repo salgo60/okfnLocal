@@ -17,6 +17,7 @@ repository for work I did matching [okfn/publicbodies](https://github.com/okfn/p
 ## See also
 * Handlingar.se was [mentioned on Wikidata weekly](https://www.wikidata.org/wiki/Wikidata:Status_updates/2021_06_14)
 * Needs feedback how you will handle identifiera for organisations see [Wikidata:Property_proposal/Handlingar.se](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Handlingar.se)
+  * **UPDATE** [no Wikidata property was created](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Handlingar.se)
 # Feedback 2021-06-14  on [data/se.csv](https://github.com/okfn/publicbodies/blob/master/data/se.csv)
 Below of issues/questions. If easier for you we can report them as [GITHUB issues see example](https://github.com/salgo60/okfnLocal/issues?q=)
 * 2021-06-14 1) you need unique identifiers for your items its much easier to track changes, report weeoea and we can have you as a Wikidata property
